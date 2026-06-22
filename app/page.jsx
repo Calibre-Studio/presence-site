@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import LogoScroller from "./components/LogoScroller";
 
 const CALENDLY = process.env.NEXT_PUBLIC_CALENDLY_URL || "https://calendly.com/calibrestudio";
@@ -59,7 +59,7 @@ const DOORS = [
     body: "Brand, content and film made with craft. The work that makes people stop, feel something and remember you, long before they go looking.",
     meta: "Directed by Calibre",
     cta: "See the work",
-    href: `${SITE}/works`,
+    href: `${SITE}/works/directed`,
   },
   {
     key: "found",
@@ -83,6 +83,8 @@ function AnimWords({ text, base = 0.12, step = 0.06 }) {
 }
 
 export default function Page() {
+  const [reelOpen, setReelOpen] = useState(false);
+
   // entrance + scroll reveals (mirrors Indexed)
   useEffect(() => {
     document.body.classList.add("js");
@@ -137,7 +139,7 @@ export default function Page() {
           <nav className="nav-links">
             <a className="nav-hide" href={`${SITE}/works`}>Work</a>
             <a className="nav-hide" href={`${SITE}/about`}>Studio</a>
-            <a className="nav-cta" href={CALENDLY}><span>Book a call</span><span className="arr" aria-hidden="true">→</span></a>
+            <a className="nav-cta" href={CALENDLY} target="_blank" rel="noopener noreferrer"><span>Book a call</span><span className="arr" aria-hidden="true">→</span></a>
           </nav>
         </div>
       </header>
@@ -155,7 +157,7 @@ export default function Page() {
         <p className="doors-lead reveal">Being seen gets you noticed. Being found gets you recommended. We do both.</p>
         <div className="door-grid stagger">
           {DOORS.map((d) => (
-            <a className="door" key={d.key} href={d.href}>
+            <a className="door" key={d.key} href={d.href} target="_blank" rel="noopener noreferrer">
               <p className="eyebrow"><span className="slash">//</span>{d.eyebrow}</p>
               <h2 className="door-title">{d.title}</h2>
               <p className="door-body">{d.body}</p>
@@ -176,14 +178,23 @@ export default function Page() {
       <section className="cta reveal">
         <h2>One studio. Both halves of presence.</h2>
         <p>We make brands worth seeing, and brands AI can find. Let&rsquo;s talk about yours.</p>
-        <a className="btn-link" href={CALENDLY}><span>Book a call</span><span className="arr" aria-hidden="true">→</span></a>
+        <a className="btn-link" href={CALENDLY} target="_blank" rel="noopener noreferrer"><span>Book a call</span><span className="arr" aria-hidden="true">→</span></a>
       </section>
 
       <footer className="footer">
         <div className="footer-wrap">
           <div className="footer-top">
-            <div className="footer-left">
+            <div className={`footer-left${reelOpen ? " reel-open" : ""}`}>
               <p className="footer-tagline reveal">Exploring the space between art and technology</p>
+              <button type="button" className="footer-reel" onClick={() => { if (typeof window !== "undefined" && window.innerWidth > 560) setReelOpen((o) => !o); }} aria-expanded={reelOpen} aria-label={reelOpen ? "Collapse showreel" : "Expand showreel"}>
+                <span className="footer-reel-frame">
+                  <video src={REEL} autoPlay muted loop playsInline preload="metadata" />
+                </span>
+                <span className="footer-reel-meta">
+                  <span className="eyebrow"><span className="slash">//</span>Directed</span>
+                  <span className="footer-reel-time">1:11</span>
+                </span>
+              </button>
               <a className="footer-wordmark" href={SITE} aria-label="Calibre Studio">
                 <img src={LOGO} alt="Calibre Studio" />
                 <span className="footer-reg" aria-hidden="true">©</span>
