@@ -1,0 +1,51 @@
+# Presence by Calibre Studio
+
+> Presence is how a brand shows up now: seen by people, and found by AI. Calibre Studio builds both halves: the brand and film craft that makes you worth remembering (Be Seen), and the AI visibility that makes you easy to recommend (Be Found).
+
+## The shift
+Search changed. A growing share of buying journeys now start with a question to an AI assistant, not a list of blue links. The assistant answers with a shortlist of a few brands. If you are not in that shortlist, you are not in the consideration set, no matter how strong your brand is. At the same time, attention is harder to earn than ever, so the brand work that makes people feel something and remember you matters more, not less. Presence is the name Calibre gives to winning on both fronts at once.
+
+## The two doors
+
+### Be Seen (Directed)
+Brand, content and film made with craft. Strategy, identity, art direction and motion that make people stop, feel something and remember you, long before they go looking. This is the work Calibre is known for, with brands like Louis Vuitton, Chanel, Dior, Hermès, Sephora and L'Oréal.
+- See the work: https://www.calibrestudio.co/works
+
+### Be Found (Indexed)
+A free audit of how AI reads your brand, scored on the DCAT method:
+- Discoverability: can AI find you?
+- Clarity: does it understand what you do?
+- Authority: does it rate you?
+- Trust: will it recommend you?
+The audit reads your public site the way an AI engine does, returns plain-language findings and a dated 90-day plan, and shows where you are being left out of the answer.
+- Run the audit: https://indexed.calibrestudio.co/
+
+## Why both
+Brand and film work make people remember you. AI visibility decides whether you are recommended inside an AI answer when someone asks ChatGPT, Claude, Gemini, Perplexity or Google AI Overviews for a studio or brand like yours. Being seen gets you noticed. Being found gets you recommended. You need both, and they compound: a brand AI keeps recommending becomes a brand people keep seeing, and a brand people remember is one AI is more likely to trust.
+
+## Who it is for
+Founders, marketing leads and creative teams who already invest in how their brand looks and feels, and now want the same standard applied to how AI represents them. Equally, brands that rank fine in traditional search but are missing from AI answers.
+
+## FAQ
+
+### Is Presence a product or a service?
+It is the umbrella for two Calibre offerings. Directed is the brand and film work (Be Seen). Indexed is the AI visibility audit and optimisation (Be Found).
+
+### How is this different from SEO?
+Traditional SEO ranks your pages in a list of links. AI visibility decides whether you are named and recommended inside an AI-generated answer. They overlap but are not the same, and most analytics undercount the AI channel because the visit often arrives later through branded search.
+
+### What does the audit cost?
+The Be Found audit is free. It reads your public site only, with no card and no account.
+
+### Which AI engines does it cover?
+ChatGPT, Claude, Gemini, Perplexity and Google AI Overviews, the engines most people now ask before they choose.
+
+## Use it
+- Presence overview: https://presence.calibrestudio.co/
+- Be Seen, see the work: https://www.calibrestudio.co/works
+- Be Found, run the audit: https://indexed.calibrestudio.co/
+- Calibre Studio: https://www.calibrestudio.co/
+- Book a call: https://calendly.com/calibrestudio
+
+## About
+Calibre Studio is a creative and AI studio between the Gold Coast and Paris, working at the intersection of art and technology. Presence brings together its two offerings, Directed (brand and film) and Indexed (AI visibility), so a brand is both worth seeing and easy for AI to find.

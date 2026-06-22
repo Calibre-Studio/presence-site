@@ -1,0 +1,16 @@
+{
+  "name": "calibre-presence",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Presence by Calibre Studio — Be Seen and Be Found. The two halves of how a brand shows up in 2026: brand and film craft (Directed) and AI visibility (Indexed).",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
