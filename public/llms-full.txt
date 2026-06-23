@@ -21,7 +21,7 @@ The audit reads your public site the way an AI engine does, returns plain-langua
 - Run the audit: https://indexed.calibrestudio.co/
 
 ## Why both
-Brand and film work make people remember you. AI visibility decides whether you are recommended inside an AI answer when someone asks ChatGPT, Claude, Gemini, Perplexity or Google AI Overviews for a studio or brand like yours. Being seen gets you noticed. Being found gets you recommended. You need both, and they compound: a brand AI keeps recommending becomes a brand people keep seeing, and a brand people remember is one AI is more likely to trust.
+Brand and film work make people remember you. AI visibility decides whether you are recommended inside an AI answer when someone asks ChatGPT, Claude, Gemini, Perplexity or Google AI Overviews for a brand like yours. Being seen gets you noticed. Being found gets you recommended. You need both, and they compound: a brand AI keeps recommending becomes a brand people keep seeing, and a brand people remember is one AI is more likely to trust.
 
 ## Who it is for
 Founders, marketing leads and creative teams who already invest in how their brand looks and feels, and now want the same standard applied to how AI represents them. Equally, brands that rank fine in traditional search but are missing from AI answers.

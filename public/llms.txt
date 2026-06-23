@@ -7,7 +7,7 @@
 - Be Found (Indexed): a free audit of how AI reads your brand, scored on the DCAT method (Discoverability, Clarity, Authority, Trust). Run it: https://indexed.calibrestudio.co/
 
 ## Why both
-Brand and film work make people remember you. AI visibility decides whether you are recommended inside an AI answer when someone asks ChatGPT, Claude, Gemini, Perplexity or Google AI Overviews for a studio or brand like yours. Being seen gets you noticed. Being found gets you recommended. You need both.
+Brand and film work make people remember you. AI visibility decides whether you are recommended inside an AI answer when someone asks ChatGPT, Claude, Gemini, Perplexity or Google AI Overviews for a brand like yours. Being seen gets you noticed. Being found gets you recommended. You need both.
 
 ## Use it
 - Presence overview: https://presence.calibrestudio.co/

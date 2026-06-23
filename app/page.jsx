@@ -65,7 +65,7 @@ const DOORS = [
     key: "found",
     eyebrow: "Be Found",
     title: "The brand AI recommends.",
-    body: "When someone asks ChatGPT, Claude, Gemini, Perplexity or Google AI Overviews for a studio like yours, the answer is already being written. See how AI reads your brand, and where you are being left out.",
+    body: "When someone asks ChatGPT, Claude, Gemini, Perplexity or Google AI Overviews for a brand like yours, the answer is already being written. See how AI reads you, and where you are being left out.",
     meta: "Indexed by Calibre",
     cta: "Check your AI visibility",
     href: INDEXED,
