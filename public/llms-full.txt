@@ -44,6 +44,7 @@ ChatGPT, Claude, Gemini, Perplexity and Google AI Overviews, the engines most pe
 - Presence overview: https://presence.calibrestudio.co/
 - Be Seen, see the work: https://www.calibrestudio.co/works
 - Be Found, run the audit: https://indexed.calibrestudio.co/
+- Be Found, the offerings: https://getfound.calibrestudio.co/
 - Calibre Studio: https://www.calibrestudio.co/
 - Book a call: https://calendly.com/calibrestudio
 
