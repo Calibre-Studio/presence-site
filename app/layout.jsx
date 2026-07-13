@@ -18,7 +18,7 @@ export const metadata = {
   metadataBase: new URL("https://presence.calibrestudio.co"),
   title: "Presence: Be Seen and Be Found | Calibre Studio",
   description:
-    "Two things decide whether a brand wins now. Whether people remember you, and whether AI recommends you. Calibre Studio builds both: brand and film craft, and AI visibility across ChatGPT, Claude, Gemini, Perplexity and Google AI Overviews.",
+    "Two things decide whether a brand wins now. Whether people remember you, and whether AI recommends you. Calibre Studio builds both: brand and film craft, and AI visibility across ChatGPT, Claude, Gemini, Grok, Perplexity, Copilot and Google AI Overviews.",
   alternates: { canonical: "/" },
   openGraph: {
     title: "Presence: Be Seen and Be Found | Calibre Studio",
@@ -87,7 +87,7 @@ const SCHEMA = {
       provider: { "@id": "https://www.calibrestudio.co/#org" },
       url: "https://indexed.calibrestudio.co",
       description:
-        "An audit of how AI reads your brand, scored on the DCAT method (Discoverability, Clarity, Authority, Trust), so ChatGPT, Claude, Gemini, Perplexity and Google AI Overviews recommend you.",
+        "An audit of how AI reads your brand, scored on the DCAT method (Discoverability, Clarity, Authority, Trust), so ChatGPT, Claude, Gemini, Grok, Perplexity, Copilot and Google AI Overviews recommend you.",
     },
   ],
 };
