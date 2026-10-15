@@ -210,6 +210,8 @@ export default function Page() {
                   <li><a href={`${SITE}/about`}>Content</a><span aria-hidden="true">•</span></li>
                   <li><a href={`${SITE}/intelligence`}>Intelligence</a><span aria-hidden="true">•</span></li>
                   <li><a href="https://getfound.calibrestudio.co">Get Found</a><span aria-hidden="true">•</span></li>
+                  <li><a href="https://indexed.calibrestudio.co/">Free AI check</a><span aria-hidden="true">•</span></li>
+                  <li><a href="https://ads.calibrestudio.co/">ChatGPT Ads</a><span aria-hidden="true">•</span></li>
                 </ul>
               </div>
               <div className="footer-rowgroup">
@@ -221,6 +223,14 @@ export default function Page() {
                     </a>
                   ))}
                 </div>
+              </div>
+              <div className="footer-rowgroup">
+                <span className="footer-collabel">Read</span>
+                <ul className="footer-list">
+                  <li><a href="https://www.calibrestudio.co/works/directed">Directed case study</a><span aria-hidden="true">•</span></li>
+                  <li><a href="https://www.calibrestudio.co/blog/on-brand-ai-images/">On-brand AI images</a><span aria-hidden="true">•</span></li>
+                  <li><a href="https://www.calibrestudio.co/blog/ai-product-photography/">AI product photography</a><span aria-hidden="true">•</span></li>
+                </ul>
               </div>
               <div className="footer-actions">
                 <button type="button" className="footer-totop" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>Back to top <span aria-hidden="true">↑</span></button>
